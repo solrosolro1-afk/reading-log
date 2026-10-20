@@ -1,0 +1,17 @@
+{
+  "name": "책갈피 — 독서 기록",
+  "short_name": "책갈피",
+  "description": "책 표지·문장 사진으로 기록하는 폰 단독 독서 노트",
+  "lang": "ko",
+  "start_url": "./#/library",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F0E6",
+  "theme_color": "#F5F0E6",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
